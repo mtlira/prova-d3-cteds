@@ -1,0 +1,4 @@
+O usuário admin (id-aleatorio-f9JpQSm12flH) logou no sistema às 21:31:48.7518641 do dia 9/9/2022
+O usuário admin (id-aleatorio-f9JpQSm12flH) saiu do sistema às 21:31:53.9469740 do dia 9/9/2022
+O usuário admin (id-aleatorio-f9JpQSm12flH) logou no sistema às 21:32:00.8641778 do dia 9/9/2022
+O usuário admin (id-aleatorio-f9JpQSm12flH) saiu do sistema às 21:32:03.2172970 do dia 9/9/2022
